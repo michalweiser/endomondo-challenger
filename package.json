@@ -1,0 +1,22 @@
+{
+  "name": "endomondo-challenger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/michalweiser/endomondo-challenger.git"
+  },
+  "author": "Michal Weiser <mweiser@netsuite.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michalweiser/endomondo-challenger/issues"
+  },
+  "homepage": "https://github.com/michalweiser/endomondo-challenger#readme",
+  "dependencies": {
+    "endomondo-unofficial-api": "0.0.9"
+  }
+}
